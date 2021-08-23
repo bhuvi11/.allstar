@@ -1,0 +1,1 @@
+Allstar configuration
